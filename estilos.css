@@ -1,0 +1,32 @@
+#palavra {
+    display: flex;
+    justify-content: center;
+}
+
+#palavra > p {
+    margin-right: 10px;
+    border-bottom-width: 2px;
+    border-bottom-color: black;
+    border-bottom-style: solid;
+    width: 80px;
+    text-align: center;
+    
+}
+
+#controle-jogo {
+    width: 200px;
+    margin: 0 auto;
+    text-align: center;
+
+}
+
+#chances {
+    text-align: center;
+    width: 200px;
+    margin: 0 auto;
+}
+
+main {
+    width: 80%;
+    margin: 200px auto;
+}
